@@ -65,11 +65,11 @@
     },
     "bing": {
       //The bing API key to use
-      "apiKey": "",
-	  //Number of times to retry fetching elevation data
-	  //If using a public bing key, try setting this number
-	  //significantly higher for better elevation results
-	  "retryCount": 50
+      "apiKey": "DQJyYlLgGb045Ywx2F4u~t8sRy5DJfYFjoCkmV_m6QA~Avu5LJobvDHa8rr8ZmnSZWg6JT06vXMxalDt0qwJCODA5rBC1hbVcmD9dBo6eDJk",
+      //Number of times to retry fetching elevation data
+      //If using a public bing key, try setting this number
+      //significantly higher for better elevation results
+      "retryCount": 50
     }
   },
 
